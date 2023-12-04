@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : D:\Altium\STM32_Project\STM32_PCB.PcbDoc
+Date         : 11/2/2023
+Time         : 2:31:07 PM
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 90
+    Connections routed, 90
+    Connections remaining, 0
+count : 4
